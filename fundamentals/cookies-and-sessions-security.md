@@ -1,4 +1,4 @@
-# Cookies & Sessions Security Fundamentals
+# Cookies & Sessions Security Fundamentals:
 
 ## Why Cookies and Sessions Exist
 
