@@ -1,4 +1,4 @@
-# HTTP Security Fundamentals
+# HTTP Security Fundamentals:
 
 ## Why HTTP Exists
 
