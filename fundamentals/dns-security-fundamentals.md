@@ -1,4 +1,4 @@
-# DNS Security Fundamentals
+# DNS Security Fundamentals:
 
 ## Why DNS Exists
 
