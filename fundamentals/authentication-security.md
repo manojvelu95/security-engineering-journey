@@ -1,4 +1,4 @@
-# Authentication Security Fundamentals
+# Authentication Security Fundamentals:
 
 ## Why Authentication Exists
 
