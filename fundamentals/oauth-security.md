@@ -314,7 +314,7 @@ Whenever reviewing an OAuth integration, ask:
 
 # Personal Reflection
 
-## My Biggest Takeaway
+## My Biggest Takeaway:
 
 Today's lesson fundamentally changed how I think about third-party integrations.
 
